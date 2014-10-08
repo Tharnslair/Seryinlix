@@ -1,0 +1,20 @@
+{
+  "name": "Seryinlix",
+  "version": "0.0.1",
+  "description": "ummmm",
+  "keywords": [
+    "MEAN"
+  ],
+  "authors": [
+    "tharnslair/tharnid"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toastr": "~2.0.3",
+    "angular": "~1.2.26",
+    "angular-resource": "~1.2.26",
+    "angular-route": "~1.2.26"
+  }
+}
