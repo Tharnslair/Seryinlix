@@ -1,0 +1,19 @@
+{
+  "name": "Seryinlix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.9.0",
+        "express": "^4.9.5",
+        "jade": "^1.7.0",
+        "mongoose": "^3.8.17",
+        "morgan": "^1.3.2",
+        "stylus": "^0.49.1"
+    }
+}
